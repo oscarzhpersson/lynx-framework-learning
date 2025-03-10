@@ -11,3 +11,8 @@ dist/
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# Assets
+src/assets/furnitures
+src/assets/icons
+
