@@ -7,7 +7,8 @@ export default defineConfig({
   source: {
     entry: {
       Index: './src/index.tsx',
-      FirstImageCard: './src/components/FirstImageCard/index.tsx',
+      FirstImageCard: './src/FirstImageCard/index.tsx',
+      Gallery: './src/CreateGallery/index.tsx',
     },
   },
   plugins: [

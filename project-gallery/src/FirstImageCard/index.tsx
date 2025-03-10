@@ -1,7 +1,7 @@
-import '../../index.css';
+import '../index.css';
 
 import { ImageCard } from './ImageCard.jsx';
-import { furnituresPictures } from '../FurnituresPictures/furnituresPictures.jsx';
+import { furnituresPictures } from '../components/FurnituresPictures/furnituresPictures.jsx';
 import { root } from '@lynx-js/react';
 
 function FirstImageCard() {
